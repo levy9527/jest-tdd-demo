@@ -1,3 +1,3 @@
 module.exports = function(filename) {
-  return true;
+  return filename.indexOf(".sh") > -1;
 };
