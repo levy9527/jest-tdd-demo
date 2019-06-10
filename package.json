@@ -1,0 +1,23 @@
+{
+  "name": "jest-tdd-demo",
+  "version": "1.0.0",
+  "description": "Test-Driven Development by jest",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/levy9527/jest-tdd-demo.git"
+  },
+  "keywords": [],
+  "author": "levy <levy9527@qq.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/levy9527/jest-tdd-demo/issues"
+  },
+  "homepage": "https://github.com/levy9527/jest-tdd-demo#readme",
+  "devDependencies": {
+    "jest": "^24.8.0"
+  }
+}
